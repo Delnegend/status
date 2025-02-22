@@ -5,8 +5,8 @@ sites:
   - name: Vault
     url: $VAULT
     headers:
-      - $VAULT_HEADER_ID
-      - $VAULT_HEADER_SECRET
+      - "CF-Access-Client-Id: $VAULT_HEADER_ID"
+      - "CF-Access-Client-Secret: $VAULT_HEADER_SECRET"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
