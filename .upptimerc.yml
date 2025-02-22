@@ -2,6 +2,8 @@ owner: Delnegend
 repo: status
 
 sites:
+  - name: Portfolio
+    url: https://delnegend.com/
   - name: Vault
     url: $VAULT
     headers:
