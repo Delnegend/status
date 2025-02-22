@@ -7,8 +7,8 @@ sites:
   - name: Vault
     url: $VAULT
     headers:
-      - "CF-Access-Client-Id: $VAULT_HEADER_ID"
-      - "CF-Access-Client-Secret: $VAULT_HEADER_SECRET"
+      - "$VAULT_HEADER_ID"
+      - "$VAULT_HEADER_SECRET"
   - name: H@H
     url: $HATH
     __dangerous__body_down_if_text_missing: "$HATH_CONTENT"
