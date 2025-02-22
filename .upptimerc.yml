@@ -4,6 +4,8 @@ repo: status
 sites:
   - name: Portfolio
     url: https://delnegend.com/
+  - name: Resume
+    url: https://delnegend.com/resume.pdf
   - name: Vault
     url: $VAULT
     headers:
