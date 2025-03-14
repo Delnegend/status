@@ -62,19 +62,19 @@
     "url": "$HATH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h-h",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 984,
-    "timeDay": 5382,
-    "timeWeek": 1651,
-    "timeMonth": 984,
-    "timeYear": 984,
+    "status": "up",
+    "uptime": "98.67%",
+    "uptimeDay": "74.72%",
+    "uptimeWeek": "96.39%",
+    "uptimeMonth": "98.67%",
+    "uptimeYear": "98.67%",
+    "time": 963,
+    "timeDay": 3719,
+    "timeWeek": 1511,
+    "timeMonth": 963,
+    "timeYear": 963,
     "dailyMinutesDown": {
-      "2025-03-14": 0
+      "2025-03-14": 364
     }
   }
 ]
