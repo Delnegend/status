@@ -13,7 +13,7 @@ sites:
       - "$VAULT_HEADER_SECRET"
   - name: H@H
     url: $HATH
-    __dangerous__body_down_if_text_missing: "$HATH_CONTENT"
+    __dangerous__body_down: "offline"
     headers:
       - "$HATH_HEADER"
 
