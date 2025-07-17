@@ -4,13 +4,13 @@ repo: status
 sites:
   - name: Portfolio
     url: https://delnegend.com/
-  - name: Resume
-    url: https://delnegend.com/resume.pdf
   - name: Vault
     url: $VAULT
     headers:
       - "$VAULT_HEADER_ID"
       - "$VAULT_HEADER_SECRET"
+  - name: BioLAK
+    url: https://new.biolak.vn/api/status
   - name: H@H
     url: $HATH
     __dangerous__body_down_if_text_missing: "<td style=\"font-weight:bold; color:green\">Online</td>"
