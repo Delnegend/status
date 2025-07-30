@@ -10,7 +10,7 @@ sites:
       - "$VAULT_HEADER_ID"
       - "$VAULT_HEADER_SECRET"
   - name: BioLAK
-    url: https://new.biolak.vn/api/status
+    url: https://biolak.vn/api/status
   - name: H@H
     url: $HATH
     __dangerous__body_down_if_text_missing: "<td style=\"font-weight:bold; color:green\">Online</td>"
