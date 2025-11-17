@@ -1,7 +1,7 @@
 url: https://biolak.vn/api/status
-status: down
-code: 530
-responseTime: 309
-lastUpdated: 2025-11-17T14:24:16.654Z
+status: up
+code: 200
+responseTime: 1025
+lastUpdated: 2025-11-17T14:44:00.767Z
 startTime: 2025-07-17T05:31:59.097Z
 generator: Upptime <https://github.com/upptime/upptime>
