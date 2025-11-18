@@ -1,7 +1,7 @@
 url: $HATH
-status: down
-code: 500
-responseTime: 194
-lastUpdated: 2025-11-18T15:36:30.435Z
+status: up
+code: 200
+responseTime: 358
+lastUpdated: 2025-11-18T15:51:35.929Z
 startTime: 2025-02-23T08:01:28.460Z
 generator: Upptime <https://github.com/upptime/upptime>
