@@ -25,17 +25,17 @@
     "url": "$VAULT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "up",
+    "status": "down",
     "uptime": "98.15%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.38%",
     "uptimeYear": "97.59%",
-    "time": 808,
-    "timeDay": 806,
-    "timeWeek": 703,
+    "time": 809,
+    "timeDay": 770,
+    "timeWeek": 707,
     "timeMonth": 724,
-    "timeYear": 834,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2025-06-28": 74,
       "2025-06-30": 26,
@@ -79,7 +79,8 @@
       "2026-05-15": 1440,
       "2026-05-14": 429,
       "2026-05-29": 359,
-      "2026-05-28": 350
+      "2026-05-28": 350,
+      "2026-06-27": 0
     }
   },
   {
