@@ -25,17 +25,17 @@
     "url": "$VAULT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vault",
-    "status": "down",
-    "uptime": "98.14%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "98.69%",
-    "uptimeMonth": "98.08%",
-    "uptimeYear": "97.57%",
+    "status": "up",
+    "uptime": "98.11%",
+    "uptimeDay": "88.49%",
+    "uptimeWeek": "97.05%",
+    "uptimeMonth": "97.93%",
+    "uptimeYear": "97.55%",
     "time": 810,
-    "timeDay": 581,
-    "timeWeek": 694,
-    "timeMonth": 723,
-    "timeYear": 832,
+    "timeDay": 623,
+    "timeWeek": 695,
+    "timeMonth": 721,
+    "timeYear": 833,
     "dailyMinutesDown": {
       "2025-06-30": 26,
       "2025-08-16": 96,
@@ -80,7 +80,7 @@
       "2026-05-29": 359,
       "2026-05-28": 350,
       "2026-06-27": 132,
-      "2026-06-28": 0
+      "2026-06-28": 166
     }
   },
   {
@@ -92,12 +92,12 @@
     "uptime": "93.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.66%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "93.81%",
     "time": 966,
     "timeDay": 979,
     "timeWeek": 850,
-    "timeMonth": 866,
+    "timeMonth": 870,
     "timeYear": 966,
     "dailyMinutesDown": {
       "2025-08-16": 96,
@@ -154,17 +154,17 @@
     "url": "$HATH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "h-h",
-    "status": "up",
+    "status": "down",
     "uptime": "97.22%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.06%",
-    "uptimeYear": "96.41%",
-    "time": 405,
-    "timeDay": 250,
-    "timeWeek": 311,
-    "timeMonth": 318,
-    "timeYear": 354,
+    "uptimeYear": "96.43%",
+    "time": 404,
+    "timeDay": 210,
+    "timeWeek": 294,
+    "timeMonth": 313,
+    "timeYear": 353,
     "dailyMinutesDown": {
       "2025-06-29": 459,
       "2025-07-05": 17,
@@ -213,7 +213,8 @@
       "2026-05-16": 1120,
       "2026-05-15": 1440,
       "2026-05-14": 429,
-      "2026-06-10": 411
+      "2026-06-10": 411,
+      "2026-06-28": 0
     }
   }
 ]
